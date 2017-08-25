@@ -7,8 +7,6 @@ Mainly, this is to provide a storage point for some 2015-2016 Trump tweets which
 
 id_str: Tweet ID number
 
-text: Tweet contents
-
 time_UTC: UTC time of creation
 
 time_East_US: East Coast United States time of creation
